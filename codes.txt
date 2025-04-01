@@ -4,7 +4,7 @@ java
 python
 c++
 c
-java script
+codes till here without javascript
 
 
 thank you
