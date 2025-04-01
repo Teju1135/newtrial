@@ -2,9 +2,7 @@ coding types
 
 java 
 python
-c++
-c
-javascript
+apples and oranges
 
 
 thank you
